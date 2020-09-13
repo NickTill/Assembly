@@ -1,5 +1,5 @@
-# VARUN VENKATESH
-# VAV30
+# Nicholas Tillmann
+# NIT36
 .eqv INPUT_SIZE 3
 .data
 display: .word 0

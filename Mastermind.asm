@@ -1,4 +1,6 @@
 # NICHOLAS TILLMANN NIT36
+#Jarret Billingsley 
+#CS 447, Spring 2020
 
 # set to 1 to show solution after generating puzzle, so the grader can properly test.
 # (and so can you, really)
